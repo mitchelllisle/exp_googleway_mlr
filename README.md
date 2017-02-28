@@ -1,5 +1,5 @@
-![Google](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/2000px-Google_2015_logo.svg.png = 100x100)
-![Exploratory](https://exploratory.io/media/logo_top.png)
+![Hero](http://i374.photobucket.com/albums/oo185/mlisle90/Untitled-1_zpsabknq3ii.png)
 
-# exp_googleway_mlr
+
+# Googleway Geocode Plugin Exploratory
 Exploratory Plugin for Googleway R Package

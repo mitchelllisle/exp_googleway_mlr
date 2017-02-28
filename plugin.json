@@ -1,0 +1,35 @@
+{
+  "name": "google_geo_mlr",
+  "displayName": "Google Geocode MLR",
+  "iconURL" : "https://developers.google.com/maps/images/lhimages/api/icon_distancematrixapi.svg",
+  "helpURL" :  "https://github.com/mitchelllisle/mlr_googleway",
+  "rPackageDependencies": ["googleway"],
+  "function": "google_mlr",
+  "rSourceFile" : "plugin.r",
+  "hasQueryField" : false,
+  "inputParameters": [
+    {
+      "name": "address",
+      "displayName":"Address to Return",
+      "dataType": "text",
+      "defaultValue" : "Melbourne, 3000",
+      "required" : true
+    },
+    {
+      "name": "api_key",
+      "displayName":"API Key",
+      "dataType": "text",
+      "defaultValue" : "",
+      "required" : true
+    },
+    {
+      "name": "simplify",
+      "displayName":"Simplify",
+
+      "dataType": "boolean",
+      "defaultValue" : "TRUE",
+      "required" : true
+    }
+
+  ]
+}
